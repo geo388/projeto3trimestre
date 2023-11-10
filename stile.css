@@ -4,7 +4,7 @@ body {
 
 #banner {
 	color: #7eadf8;
-	width:100%;
+	width: 90px;
 }
 
 .principal{
@@ -13,7 +13,7 @@ body {
 }
 
 .titulo-principal {
-	padding-left: 25px;
+	padding-left: 20px;
 }
 
 .titulo-centralizado {
@@ -30,9 +30,12 @@ p {
 
 em strong {
 	color: #7eadf8;
-}
+}  
 
-.itens {
+#banner {
+	color: #7eadf8;
+	width: 90px;
+ {
 	font-style: normal
 }
 
